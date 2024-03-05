@@ -58,7 +58,7 @@ public class EmployeesData {
 				               
 				     System.out.println("=========================Salary=======================================");
 				            
-				            System.out.println("workedhours: " + fields[23]);
+				                        System.out.println("workedhours: " + fields[23]);
 							System.out.println("hourlyrate: " + fields[18]);
 							System.out.println("Rice Subsidy: " + fields[14]);
 							System.out.println("Phone Allowance: " + fields[15]);
