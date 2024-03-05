@@ -58,7 +58,7 @@ public class EmployeesData {
 				               
 				     System.out.println("=========================Salary=======================================");
 				            
-				                        System.out.println("workedhours: " + fields[23]);
+				            System.out.println("workedhours: " + fields[23]);
 							System.out.println("hourlyrate: " + fields[18]);
 							System.out.println("Rice Subsidy: " + fields[14]);
 							System.out.println("Phone Allowance: " + fields[15]);
@@ -126,7 +126,9 @@ public class EmployeesData {
 	    	System.out.println("JOB DETAILS:");
 	    	System.out.println("Status: " + fields[10]);
 	    	System.out.println("Position: " + fields[11]);
-	    	System.out.println("Immediate Supervisor: " + fields[12]);
+	    	System.out.println("Immediate Supervisor: " + fields[12]);	
+	    	
+	    	System.out.println("Basic Salary: " + fields[13]);
 	    	System.out.println("\n===================================================");
 		}
 		
